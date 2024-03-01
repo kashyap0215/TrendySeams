@@ -1,1 +1,1 @@
-# TrendySeams
+# trendyseams
